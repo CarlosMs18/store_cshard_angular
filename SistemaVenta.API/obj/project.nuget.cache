@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W0ppL2oZ5jmQIcPUgGPEqKdTflmb66e/RrWj55nYLxkfPWKIm/zTSh6xxL58kLpo59NgZsSqUOQynjJCcaWD2w==",
+  "dgSpecHash": "yXn0IEk37rwQUhbXHJW7YvHnd4VKhZ7EgeySwrAaZ2cX6X+/IHZkx4dbIoEmIU3nAuzucdw9v8qPjc2m+C6Ijw==",
   "success": true,
-  "projectFilePath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
+  "projectFilePath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.API\\SistemaVenta.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tinnova1\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Tinnova1\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

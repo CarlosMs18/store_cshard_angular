@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u/rp6Wnk3dLTazDhwE/vSu1TKAXZWacf0lJavNBhg5skZeN8QvM2JJqEBDGuN4u2i3X3LOlTHKt0P9i2LvHeYQ==",
+  "dgSpecHash": "s8SgAAGDkN6aUE7fxjsSWSPKmif5OkHqCYhEQUWpX6wJN/ALuHIt5bWNN6YhSHaWsiRM/G+jH+iuLGJAy3ykzA==",
   "success": true,
-  "projectFilePath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tinnova1\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Tinnova1\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

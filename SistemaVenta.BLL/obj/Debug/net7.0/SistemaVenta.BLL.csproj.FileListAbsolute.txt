@@ -19,3 +19,24 @@ C:\Curso de Sistema en Angular\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0
 C:\Curso de Sistema en Angular\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\refint\SistemaVenta.BLL.dll
 C:\Curso de Sistema en Angular\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.pdb
 C:\Curso de Sistema en Angular\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\ref\SistemaVenta.BLL.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.deps.json
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\obj\Debug\net7.0\refint\SistemaVenta.BLL.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.BLL\obj\Debug\net7.0\ref\SistemaVenta.BLL.dll

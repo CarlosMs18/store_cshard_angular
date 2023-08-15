@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {}
+    "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {}
   },
   "projects": {
-    "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+    "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "projectName": "SistemaVenta.Model",
-        "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+        "outputPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,3 +15,20 @@ C:\Curso de Sistema en Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\ne
 C:\Curso de Sistema en Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
 C:\Curso de Sistema en Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
 C:\Curso de Sistema en Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.deps.json
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CopyComplete
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\Tinnova1\source\repos\store_cshard_angular\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll

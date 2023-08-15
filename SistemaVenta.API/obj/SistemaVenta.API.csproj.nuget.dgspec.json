@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj": {}
+    "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.API\\SistemaVenta.API.csproj": {}
   },
   "projects": {
-    "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj": {
+    "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.API\\SistemaVenta.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
+        "projectUniqueName": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.API\\SistemaVenta.API.csproj",
         "projectName": "SistemaVenta.API",
-        "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
+        "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.API\\SistemaVenta.API.csproj",
         "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.API\\obj\\",
+        "outputPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,14 +35,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
               },
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
               },
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemVenta.DTO\\SistemaVenta.DTO.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+    "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
         "projectName": "SistemaVenta.BLL",
-        "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
         "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.BLL\\obj\\",
+        "outputPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -119,17 +119,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               },
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               },
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
               },
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemVenta.DTO\\SistemaVenta.DTO.csproj"
               }
             }
           }
@@ -163,14 +163,14 @@
         }
       }
     },
-    "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+    "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
         "projectName": "SistemaVenta.DAL",
-        "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
         "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -193,8 +193,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               }
             }
           }
@@ -228,14 +228,14 @@
         }
       }
     },
-    "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+    "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectUniqueName": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
         "projectName": "SistemaVenta.IOC",
-        "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
         "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.IOC\\obj\\",
+        "outputPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -258,14 +258,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
               },
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               },
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
               }
             }
           }
@@ -299,14 +299,14 @@
         }
       }
     },
-    "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+    "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "projectName": "SistemaVenta.Model",
-        "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+        "outputPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -378,14 +378,14 @@
         }
       }
     },
-    "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+    "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "projectName": "SistemaVenta.Utility",
-        "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
+        "outputPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -408,11 +408,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               },
-              "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemVenta.DTO\\SistemaVenta.DTO.csproj"
               }
             }
           }
@@ -456,14 +456,14 @@
         }
       }
     },
-    "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemVenta.DTO\\SistemaVenta.DTO.csproj": {
+    "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemVenta.DTO\\SistemaVenta.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemVenta.DTO\\SistemaVenta.DTO.csproj",
         "projectName": "SistemaVenta.DTO",
-        "projectPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemVenta.DTO\\SistemaVenta.DTO.csproj",
         "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema en Angular\\APISistemaVenta\\SistemVenta.DTO\\obj\\",
+        "outputPath": "C:\\Users\\Tinnova1\\source\\repos\\store_cshard_angular\\SistemVenta.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
