@@ -16,7 +16,7 @@ namespace SistemaVenta.Utility
         public AutoMapperProfile()
         {
             #region Rol
-            CreateMap<Usuario, RolDTO>().ReverseMap();
+            CreateMap<Rol, RolDTO>().ReverseMap();
             #endregion Rol
 
             #region Menu
